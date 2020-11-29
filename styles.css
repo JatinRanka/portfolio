@@ -8,8 +8,10 @@
 
 body {
     font-family: 'Mulish', sans-serif;
-    margin: 0px
-}
+    margin: 0px;
+    max-width: 900px;
+    margin: auto;
+}   
 
 hr {
     margin: 2rem 0rem;
